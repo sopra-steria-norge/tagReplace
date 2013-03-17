@@ -1,0 +1,3 @@
+<FIELD_VALUE>
+	CN=App_admin,OU=AdminUsers,OU=Groups,DC=test,DC=me
+</FIELD_VALUE>

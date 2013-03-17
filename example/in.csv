@@ -1,0 +1,3 @@
+GROUPCN;BASEDN
+App_read;OU=EndUsers,OU=Groups,DC=test,DC=me
+App_admin;OU=AdminUsers,OU=Groups,DC=test,DC=me
